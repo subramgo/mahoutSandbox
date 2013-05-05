@@ -14,7 +14,8 @@ import org.apache.mahout.classifier.df.split.Split;
 import org.apache.mahout.common.RandomUtils;
 
 /**
- *
+ * A basic class to load Iris data
+ * in mahout datastructures
  * @author gopi
  */
 public class IrisModel {
